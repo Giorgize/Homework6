@@ -31,3 +31,20 @@
     font-size: 14px;
     color: white;
 }
+.navbar{
+	position: absolute;
+	font-family: 'Poppins';
+	font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    top: 20px;
+    text-decoration: none;
+    color: white;
+    left: 640px;
+}
+.wrapp{
+	margin-left: 25px;
+}
+.cont{
+	margin-left: 20px;
+}
